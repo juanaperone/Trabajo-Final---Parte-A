@@ -1,0 +1,3 @@
+- Windows (usa la fuente Arial de `C:/Windows/Fonts` y DirectShow para la cámara)
+- Python 3.10 a 3.12
+- Una cámara web

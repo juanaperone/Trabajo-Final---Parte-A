@@ -1,0 +1,8 @@
+- `n`: siguiente foto
+- `f`: pantalla completa
+- `q` o `Esc`: salir
+
+Igualmente el programa corre solo.
+Los parámetros editables están al comienzo del script. Si la imagen de la
+cámara sale con ruido, probar `USAR_DSHOW = False`. Si no abre la cámara,
+cambiar `CAMARA_INDEX`.
